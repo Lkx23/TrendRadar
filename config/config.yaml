@@ -71,7 +71,7 @@ notification:
     feishu_url: "" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
     wework_url: "https://sctapi.ftqq.com/SCT303394TA-8VIvpGtU9e1Y521kHCX5naFe.send" # 企业微信机器人的 webhook URL
-    wework_msg_type: "markdown" # 企业微信消息类型：markdown(群机器人) 或 text(个人微信应用)
+    wework_msg_type: "text" # 企业微信消息类型：markdown(群机器人) 或 text(个人微信应用)
     telegram_bot_token: "" # Telegram Bot Token
     telegram_chat_id: "" # Telegram Chat ID
     email_from: "" # 发件人邮箱地址
