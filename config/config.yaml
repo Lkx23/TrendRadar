@@ -76,7 +76,7 @@ notification:
     telegram_chat_id: "" # Telegram Chat ID
     email_from: "li_note@126.com" # 发件人邮箱地址
     email_password: "PYwqSrn5fi3R3KGK" # 发件人邮箱密码或授权码
-    email_to: "1903564563@qq.com,ll1001kk23@outlook.com" # 收件人邮箱地址，多个收件人用逗号分隔
+    email_to: "1903564563@qq.com" # 收件人邮箱地址，多个收件人用逗号分隔
     email_smtp_server: "smtp.126.com" # SMTP服务器地址（可选，留空自动识别）
     email_smtp_port: "465" # SMTP端口（可选，留空自动识别）
     ntfy_server_url: "" # ntfy服务器地址，默认使用公共服务，可改为自托管地址
